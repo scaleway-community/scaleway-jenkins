@@ -1,7 +1,7 @@
 DOCKER_NAMESPACE =	armbuild/
 NAME =			scw-app-jenkins
 VERSION =		latest
-VERSION_ALIASES =	14.10 14 latest utopic
+VERSION_ALIASES =	
 TITLE =			Jenkins
 DESCRIPTION =		Jenkins
 SOURCE_URL =		https://github.com/scaleway/image-app-jenkins
