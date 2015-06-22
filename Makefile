@@ -1,7 +1,8 @@
-VERSIONS ?=	jenkins slave
+VERSIONS ?=	jenkins worker
 PROXYFIED_COMMANDS ?=	\
 	all \
 	build \
+	check_s3 \
 	clean \
 	info \
 	install \
