@@ -1,4 +1,4 @@
-VERSIONS ?=	jenkins worker
+VERSIONS ?=	master worker
 PROXYFIED_COMMANDS ?=	\
 	all \
 	build \
