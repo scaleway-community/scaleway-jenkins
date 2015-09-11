@@ -1,5 +1,5 @@
-## -*- docker-image-name: "armbuild/scw-app-jenkins:latest" -*-
-FROM armbuild/scw-app-java:latest
+## -*- docker-image-name: "scaleway/jenkins:latest" -*-
+FROM scaleway/java:latest
 MAINTAINER Scaleway <opensource@scaleway.com> (@scaleway)
 
 # Prepare rootfs for image-builder

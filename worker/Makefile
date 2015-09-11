@@ -1,10 +1,9 @@
-DOCKER_NAMESPACE =	armbuild/
-NAME =			scw-app-jenkins-worker
+NAME =			jenkins-worker
 VERSION =		latest
 VERSION_ALIASES =
 TITLE =			Jenkins Worker
 DESCRIPTION =		Jenkins Worker
-SOURCE_URL =		https://github.com/scaleway/image-app-jenkins
+SOURCE_URL =		https://github.com/scaleway-community/scaleway-jenkins
 IMAGE_VOLUME_SIZE =	50G
 
 VENDOR_URL =		https://jenkins-ci.org/
