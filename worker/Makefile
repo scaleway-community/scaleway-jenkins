@@ -1,5 +1,4 @@
-DOCKER_NAMESPACE =	armbuild/
-NAME =			scw-app-jenkins-worker
+NAME =			jenkins-worker
 VERSION =		latest
 VERSION_ALIASES =
 TITLE =			Jenkins Worker

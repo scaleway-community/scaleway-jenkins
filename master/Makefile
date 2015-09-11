@@ -1,5 +1,4 @@
-DOCKER_NAMESPACE =	armbuild/
-NAME =			scw-app-jenkins
+NAME =			jenkins
 VERSION =		latest
 VERSION_ALIASES =
 TITLE =			Jenkins Master
