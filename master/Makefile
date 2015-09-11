@@ -4,7 +4,7 @@ VERSION =		latest
 VERSION_ALIASES =
 TITLE =			Jenkins Master
 DESCRIPTION =		Jenkins Master
-SOURCE_URL =		https://github.com/scaleway/image-app-jenkins
+SOURCE_URL =		https://github.com/scaleway-community/scaleway-jenkins
 VENDOR_URL =		https://jenkins-ci.org/
 
 IMAGE_VOLUME_SIZE =	50G
