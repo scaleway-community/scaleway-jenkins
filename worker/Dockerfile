@@ -1,5 +1,5 @@
 ## -*- docker-image-name: "scaleway/jenkins-worker:latest" -*-
-FROM scaleway/docker:latest
+FROM scaleway/docker:1.9.0
 MAINTAINER Scaleway <opensource@scaleway.com> (@scaleway)
 
 # Prepare rootfs for image-builder
