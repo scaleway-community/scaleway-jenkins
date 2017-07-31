@@ -30,4 +30,4 @@ $(PROXYFIED_COMMANDS):
 
 
 docker-rules.mk:
-	wget -qO - http://j.mp/scw-builder | bash
+	wget -qO - https://j.mp/scw-builder | bash
